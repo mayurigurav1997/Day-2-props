@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   //JS starts
   const time = 30;
-  const names = ["Mayuri", "Nupur", "Omkar","Rushi"];
+  const names = ["Mayuri", "Nupur", "Omkar","Rushi","Priya"];
   const Info = [
     {
       Name: "Mayuri",
