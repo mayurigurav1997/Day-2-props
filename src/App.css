@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  /* display: flex; */
+}
+
+.profile-pic{
+  height:250px;
+  width:250px;
+  object-fit:cover;
+  border-radius:50%;
+  transition:0.2s;
+}
+.profile-pic:hover{
+  transform:scale(1.1);
+  /* transform:rotate(1turn) ; */
+}
+
